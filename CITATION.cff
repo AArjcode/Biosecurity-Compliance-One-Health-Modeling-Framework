@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the associated peer-reviewed article when using this research repository."
+title: "Biosecurity Compliance and Antimicrobial Resistance: A One Health Modeling Framework"
+authors:
+  - family-names: Arjmand
+    given-names: Arash
+repository-code: "https://github.com/AArjcode/Biosecurity-Compliance-One-Health-Modeling-Framework"
+preferred-citation:
+  type: article
+  title: "Assessing the impact of biosecurity compliance on farmworker and livestock health within a One Health modeling framework"
+  authors:
+    - family-names: Arjmand
+      given-names: Arash
+    - family-names: Bani-Yaghoub
+      given-names: Majid
+    - family-names: Corkran
+      given-names: Kiel
+    - family-names: Pandit
+      given-names: Pranav S.
+    - family-names: Aly
+      given-names: Sharif S.
+  journal: "One Health"
+  volume: 20
+  start: 101023
+  year: 2025
+  doi: "10.1016/j.onehlt.2025.101023"
